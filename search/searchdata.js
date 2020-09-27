@@ -1,10 +1,11 @@
 var indexSectionsWithContent =
 {
-  0: "chimpsv",
-  1: "cims",
+  0: "cdeghimopsv",
+  1: "chims",
   2: "hmv",
-  3: "hmv",
-  4: "p"
+  3: "eghmov",
+  4: "d",
+  5: "p"
 };
 
 var indexSectionNames =
@@ -13,7 +14,8 @@ var indexSectionNames =
   1: "classes",
   2: "files",
   3: "functions",
-  4: "defines"
+  4: "variables",
+  5: "defines"
 };
 
 var indexSectionLabels =
@@ -22,6 +24,7 @@ var indexSectionLabels =
   1: "Classes",
   2: "Files",
   3: "Functions",
-  4: "Macros"
+  4: "Variables",
+  5: "Macros"
 };
 

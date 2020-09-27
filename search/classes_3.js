@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['sha1hasher',['SHA1Hasher',['../classSHA1Hasher.html',1,'']]]
+  ['md5hasher',['MD5Hasher',['../classMD5Hasher.html',1,'']]]
 ];
