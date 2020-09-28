@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['ihash',['IHash',['../classIHash.html',1,'']]]
+  ['hashedfile',['HashedFile',['../classHashedFile.html',1,'']]],
+  ['hashnode',['HashNode',['../structHashNode.html',1,'']]]
 ];
