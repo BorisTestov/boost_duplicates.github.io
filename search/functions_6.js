@@ -1,5 +1,4 @@
 var searchData=
 [
-  ['operator_21_3d',['operator!=',['../structHashNode.html#a1de7e57d48af43a40e99800099215311',1,'HashNode']]],
-  ['operator_3d_3d',['operator==',['../structHashNode.html#ac420236e36dbb3b655375fd64831a7bb',1,'HashNode']]]
+  ['ihash',['IHash',['../classIHash.html#a92f72a4694f20c4ed90b345cae9464f6',1,'IHash::IHash()=default'],['../classIHash.html#a978ea49144cddb812071800bf3fb2c11',1,'IHash::IHash(const IHash &amp;other)=delete'],['../classIHash.html#ad99fdebdd9843159425b78dd54ea7155',1,'IHash::IHash(IHash &amp;&amp;other)=delete']]]
 ];

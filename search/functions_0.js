@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['duplicatefinder',['DuplicateFinder',['../classDuplicateFinder.html#aa1931766a971cc294a4a5a94cfb547a4',1,'DuplicateFinder']]]
+  ['crc32hasher',['CRC32Hasher',['../classCRC32Hasher.html#ab822e683a5f7762e494a7fd2e0f15459',1,'CRC32Hasher']]]
 ];

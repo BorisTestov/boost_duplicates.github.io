@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['find',['Find',['../classDuplicateFinder.html#ada1194645468f8b06731aa0fcfea6132',1,'DuplicateFinder']]]
+  ['equal',['Equal',['../classHashedFile.html#a63317beafd196e29a401c810b2fe3607',1,'HashedFile']]]
 ];

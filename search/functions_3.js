@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['getfilepath',['GetFilePath',['../classHashedFile.html#a0919e1b63db2b45c5696b0b4e0a9d95b',1,'HashedFile']]]
+  ['find',['Find',['../classDuplicateFinder.html#ada1194645468f8b06731aa0fcfea6132',1,'DuplicateFinder']]]
 ];
