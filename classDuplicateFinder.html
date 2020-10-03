@@ -76,9 +76,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:aa1931766a971cc294a4a5a94cfb547a4"><td class="memItemLeft" align="right" valign="top">&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDuplicateFinder.html#aa1931766a971cc294a4a5a94cfb547a4">DuplicateFinder</a> (const std::vector&lt; std::string &gt; &amp;include_dirs, const std::vector&lt; std::string &gt; &amp;exclude_dirs, const std::vector&lt; std::string &gt; &amp;filemasks, size_t block_size, size_t scan_depth, uintmax_t min_file_size, const std::string &amp;hasher)</td></tr>
 <tr class="memdesc:aa1931766a971cc294a4a5a94cfb547a4"><td class="mdescLeft">&#160;</td><td class="mdescRight">Class constructor.  <a href="#aa1931766a971cc294a4a5a94cfb547a4">More...</a><br /></td></tr>
 <tr class="separator:aa1931766a971cc294a4a5a94cfb547a4"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ada1194645468f8b06731aa0fcfea6132"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::vector&lt; std::string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDuplicateFinder.html#ada1194645468f8b06731aa0fcfea6132">Find</a> ()</td></tr>
-<tr class="memdesc:ada1194645468f8b06731aa0fcfea6132"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find duplicate files.  <a href="#ada1194645468f8b06731aa0fcfea6132">More...</a><br /></td></tr>
-<tr class="separator:ada1194645468f8b06731aa0fcfea6132"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:abcf0fb9d8cb47d610668d6c3ca042921"><td class="memItemLeft" align="right" valign="top">std::unordered_map&lt; std::string, std::unordered_set&lt; std::string &gt; &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDuplicateFinder.html#abcf0fb9d8cb47d610668d6c3ca042921">Find</a> ()</td></tr>
+<tr class="memdesc:abcf0fb9d8cb47d610668d6c3ca042921"><td class="mdescLeft">&#160;</td><td class="mdescRight">Find duplicate files.  <a href="#abcf0fb9d8cb47d610668d6c3ca042921">More...</a><br /></td></tr>
+<tr class="separator:abcf0fb9d8cb47d610668d6c3ca042921"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a2f0a53690fec0a7a16dbe82a3a763895"><td class="memItemLeft" align="right" valign="top">std::vector&lt; boost::filesystem::path &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classDuplicateFinder.html#a2f0a53690fec0a7a16dbe82a3a763895">TrySetDirs</a> (const std::vector&lt; std::string &gt; &amp;dirs)</td></tr>
 <tr class="memdesc:a2f0a53690fec0a7a16dbe82a3a763895"><td class="mdescLeft">&#160;</td><td class="mdescRight">Set directories from vector of strings.  <a href="#a2f0a53690fec0a7a16dbe82a3a763895">More...</a><br /></td></tr>
 <tr class="separator:a2f0a53690fec0a7a16dbe82a3a763895"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -159,14 +159,14 @@ Public Member Functions</h2></td></tr>
 </div>
 </div>
 <h2 class="groupheader">Member Function Documentation</h2>
-<a id="ada1194645468f8b06731aa0fcfea6132"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ada1194645468f8b06731aa0fcfea6132">&#9670;&nbsp;</a></span>Find()</h2>
+<a id="abcf0fb9d8cb47d610668d6c3ca042921"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#abcf0fb9d8cb47d610668d6c3ca042921">&#9670;&nbsp;</a></span>Find()</h2>
 
 <div class="memitem">
 <div class="memproto">
       <table class="memname">
         <tr>
-          <td class="memname">std::unordered_map&lt; std::string, std::vector&lt; std::string &gt; &gt; DuplicateFinder::Find </td>
+          <td class="memname">std::unordered_map&lt; std::string, std::unordered_set&lt; std::string &gt; &gt; DuplicateFinder::Find </td>
           <td>(</td>
           <td class="paramname"></td><td>)</td>
           <td></td>
